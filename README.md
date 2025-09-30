@@ -1,8 +1,8 @@
-## stack-chess
+# stack-chess
 
 This is a demonstration of a custom chess variant ("Stack Chess").
 
-# Rules
+## Rules
 Most rules of Stack Chess are identical to those of regular chess. The key difference is the addition of **Stacks**.
 - Stacks consist of multiple pieces of the same color occupying the same square.
 - A stack can move to any square in which one of its component pieces has a legal move to it.
